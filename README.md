@@ -9,7 +9,7 @@ My website is also responsive to different devices and sizes.
 
 
 # Submission
-Deployed URL: 
+Deployed URL: https://bilalfarrukh2000.github.io/fluffy-portfolio/
 GitHub Repo URL: https://github.com/bilalfarrukh2000/fluffy-portfolio
 
 ![Website Screenshot](Screenshot.png)
